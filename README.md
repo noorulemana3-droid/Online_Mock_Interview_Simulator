@@ -63,16 +63,16 @@ The app is built entirely in **Java SE (Swing)** using in-memory data structures
 ## 🖼️ Screenshots
 
 **Login Screen**
-![Login Screen](screenshots/01-login-screen.png)
+![Login Screen](01-login-screen.png)
 
 **Select Interview Category**
-![Category Selection](screenshots/02-category-selection.png)
+![Category Selection](02-category-selection.png)
 
 **Mock Interview Session (Technical Category)**
-![Technical Interview Session](screenshots/03-technical-interview-session.png)
+![Technical Interview Session](03-technical-interview-session.png)
 
 **Interview Results & Feedback**
-![Interview Results](screenshots/04-interview-results.png)
+![Interview Results](04-interview-results.png)
 
 ---
 
