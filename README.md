@@ -45,7 +45,7 @@ The app is built entirely in **Java SE (Swing)** using in-memory data structures
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/online-mock-interview-simulator.git
+   git clone https://github.com/noorulemana3-droid/online-mock-interview-simulator.git
    ```
 2. **Open in Eclipse IDE**
    - Launch Eclipse → `File` → `Import` → `Existing Projects into Workspace`
